@@ -1,6 +1,6 @@
 # Conversor de Moneda 💰
 
-¡Bienvenido al Conversor de Moneda! Este proyecto te permite convertir valores entre pesos (ARS) y dólares estadounidenses (USD) de forma rápida y sencilla, utilizando las tasas de cambio más recientes.
+¡Bienvenido al Conversor de Moneda! Este proyecto te permite convertir valores entre pesos, realeas y dólares estadounidenses (USD) de forma rápida y sencilla, utilizando las tasas de cambio más recientes.
 
 ## ⚙️ Funcionalidad Principal
 
